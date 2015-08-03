@@ -1,2 +1,2 @@
 # InitialReact
-Initial Basic React Project Using GitHub
+React Project Using GitHub
